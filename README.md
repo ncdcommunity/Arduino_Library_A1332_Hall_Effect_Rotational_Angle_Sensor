@@ -14,6 +14,7 @@ Hardware needed to interface Hall effect sensor with Arduino
 3. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-uno/">Arduino uno</a>
 4. <a href="https://store.ncd.io/product/dual-i2c-shield-for-arduino-due-with-modular-communications-interface/">Arduino Due</a>
 5. <a href="https://store.ncd.io/product/a1332-precision-hall-effect-rotational-angle-0-to-360-sensor-i2c-mini-module/">Hall Effect Sensor</a>
+6. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
 
 Download and install Arduino Software (IDE) on your machine. Steps to install Arduino are provided at:
 
